@@ -9,6 +9,14 @@ yarn install
 yarn dev
 ```
 
+### Environment
+
+You can define and API base to specify where queryAPI and mutateAPI should send requests, this value is also configurable in src/core/utilities/constants.ts 
+
+```
+API_BASE=http://yourapi.com/v1
+```
+
 #### Dependencies
 
 - [React](https://reactjs.org)
