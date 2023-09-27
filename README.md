@@ -1,6 +1,6 @@
 # React Template
 
-This is a React base project that is set up with a custom JWT auth system, authenticated routing, api interactions, and some basic ui components 
+This is a React base project that is set up with a custom JWT auth system, authenticated routing, api interactions, and some basic UI components 
 
 ## Setup
 
