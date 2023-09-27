@@ -9,7 +9,6 @@ export enum RoutePath
 {
     ROOT = '/',
     LOGIN = '/login',
-    SIGN_UP = '/signup',
     DASHBOARD = '/dashboard'
 }
 
